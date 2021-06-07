@@ -101,7 +101,7 @@ slings.fly()
 //create keyPressed function here
 function keyPressed(){
   if(keyCode===32)
-    slings.attach(stobeObj.body)
+    slings.attach(stoneObj.body)
   
 }
 

@@ -2,8 +2,8 @@ class slingShot{
 constructor(a,b){
 
     var options={
-        bodyB:a,
-        bodyB:b,
+        bodyA:a,
+       pointB:b,
         length:18,
         stiffness:0.03
     }
